@@ -1,4 +1,4 @@
-const form = document.getElementById('form-cadastro');
+const form = document.getElementById('form-registro');
 const email = [];
 const senha = [];
 
